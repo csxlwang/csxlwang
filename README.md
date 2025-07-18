@@ -6,8 +6,6 @@
 
 https://www.xiaolingwang.cn
 
-我们致力于 （）
-
 我们的研究方向有：
 
 - 智慧医疗
