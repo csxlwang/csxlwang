@@ -4,8 +4,6 @@
 
 数据智能与应用小组由华东师范大学**王晓玲**教授带领
 
-https://faculty.ecnu.edu.cn/_s16/wxl2/main.psp
-
 https://www.xiaolingwang.cn
 
 我们致力于主要研究方向有：
