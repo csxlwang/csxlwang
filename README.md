@@ -1,7 +1,7 @@
-## 嗨👋！
+## 嗨👋！这里是⚡数据智能与应用小组⚡
 
 这里是**数据智能与应用小组**的官方github。
-我们来自华东师范大学，计算机科学与技术学院
+我们来自**华东师范大学**，计算机科学与技术学院
 
 <!--
 **csxlwang/csxlwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
