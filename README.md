@@ -2,6 +2,10 @@
 
 这里是**数据智能与应用小组**的官方github。我们来自**华东师范大学**，计算机科学与技术学院
 
+我们由王晓玲教授带领，
+https://faculty.ecnu.edu.cn/_s16/wxl2/main.psp
+https://www.xiaolingwang.cn
+
 我们致力于主要研究方向有：
 
 - 智慧医疗
